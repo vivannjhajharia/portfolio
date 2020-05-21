@@ -7,3 +7,9 @@ body{
 #one{
     background-image: url(https://www.shinco.in/wp-content/uploads/2017/03/music-background.jpg);
 }
+#two{
+    background-image: url(https://i.pinimg.com/564x/9d/fa/31/9dfa3164d3c97742d6ed7ff13264618d.jpg);
+}
+.card-body>p{
+    font-size: 18px;
+}
