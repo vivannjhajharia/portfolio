@@ -1,15 +1,19 @@
 .jumbotron {
-    background-image: url(https://www.flytheapennines.com/wp-content/uploads/2017/05/banner_crossing_the_apennines-1500x400.jpg);
+    background-image: url(https://chamberbusinessnews.com/wp-content/uploads/2018/07/milky-way-2695569_1920-1500x500.jpg);
 }
-body{
+
+body {
     background-image: url(https://image.freepik.com/free-vector/dark-pattern-background_1078-81.jpg);
 }
-#one{
+
+#one {
     background-image: url(https://www.shinco.in/wp-content/uploads/2017/03/music-background.jpg);
 }
-#two{
+
+#two {
     background-image: url(https://c4.wallpaperflare.com/wallpaper/429/63/621/art-background-multicolor-texture-wallpaper-preview.jpg);
 }
-.card-body>p{
+
+.card-body>p {
     font-size: 18px;
 }
