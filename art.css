@@ -5,3 +5,7 @@
 body {
     background-image: url(https://img.freepik.com/free-photo/chalkboard-blackboard-dark-wallpaper-background_28629-1125.jpg?size=626&ext=jpg);
 }
+
+img {
+    filter: brightness(110%);
+}
