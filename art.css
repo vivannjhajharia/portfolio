@@ -9,3 +9,7 @@ body {
 img {
     filter: brightness(110%);
 }
+
+#one {
+    filter: brightness(100%);
+}

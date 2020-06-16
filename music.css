@@ -1,7 +1,11 @@
 body {
-    background-image: url(https://lh3.googleusercontent.com/proxy/WFt0SK3isYJdSB8RXpgR9fHSMcDfGZuXlrRhtBxVF3rpZQNwMY-H10szQXwL527qTJ2NpT25WzdnbqgUIKhfXUPfUetEHfiWnrUfuVmLFewbXcDIqqG9LXtOnguTE2wof9GsCnFaYaWQ3WjRNXrnf3E);
+    background-image: url(https://site-macgasm.s3.amazonaws.com/wp-content/uploads/2012/08/Music_iPad.jpg);
 }
-.jumbotron{
+
+.jumbotron {
     background-image: url(https://images.assetsdelivery.com/compings_v2/infinetsoft/infinetsoft1909/infinetsoft190900050.jpg);
     background-size: cover;
+}
+.card-deck > .card:hover{
+    transform: scale(1.05);
 }
