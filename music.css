@@ -9,3 +9,7 @@ body {
 .card-deck > .card:hover{
     transform: scale(1.05);
 }
+a, a:hover{
+    text-decoration: none;
+    color: inherit;
+}
