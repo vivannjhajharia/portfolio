@@ -6,10 +6,13 @@ body {
     background-image: url(https://images.assetsdelivery.com/compings_v2/infinetsoft/infinetsoft1909/infinetsoft190900050.jpg);
     background-size: cover;
 }
-.card-deck > .card:hover{
+
+.card-deck>.card:hover {
     transform: scale(1.05);
 }
-a, a:hover{
+
+a,
+a:hover {
     text-decoration: none;
     color: inherit;
 }
